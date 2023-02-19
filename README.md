@@ -1,2 +1,2 @@
 # Python Digital Clock Widget
-<img src='assets/demoimg.png'>
+<img src='img_clk.png'>
