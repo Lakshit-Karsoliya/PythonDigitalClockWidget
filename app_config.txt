@@ -1,0 +1,9 @@
+#default position not use space while assignig values
+#x = 1500 (INVALID)
+#x=1500 (VALID)
+x=1500
+y=800
+#clock_colour must be in range 0-255 
+cr=255
+cg=255
+cb=255
